@@ -37,8 +37,10 @@ a {
 }
 
 footer {
+    display: flex;
     margin-top: 3%;
-    justify-content: end;
+    align-items: flex-end;
+    justify-content: center;
 }
 
 .icons {
