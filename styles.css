@@ -25,15 +25,20 @@ a {
     cursor: pointer;
 }
 
+.center {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
 .container-left {
     display: inline-block;
-    margin: 3% 0 0 7%;
+    margin-right: 15%;
     cursor: pointer;
 }
 
 .container-right {
     display: inline-block;
-    margin: 3% 0 0 20%;
 }
 
 footer {
