@@ -38,8 +38,9 @@ a {
 
 footer {
     display: flex;
-    margin-top: 3%;
-    align-items: flex-end;
+    bottom: 5%;
+    position: fixed;
+    width: 90%;
     justify-content: center;
 }
 
