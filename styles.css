@@ -26,11 +26,10 @@ a {
 }
 
 .center {
+    height: 100vh;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
-    margin-top: 3%;
-    max-height: 100vh;
 }
 
 .container-left {
@@ -45,8 +44,7 @@ a {
 
 footer {
     display: flex;
-    bottom: 5%;
-    position: fixed;
+    margin-bottom: 3%;
     width: 90%;
     justify-content: center;
 }
