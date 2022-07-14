@@ -38,6 +38,7 @@ a {
 
 footer {
     margin-top: 3%;
+    justify-content: end;
 }
 
 .icons {
