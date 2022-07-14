@@ -30,6 +30,7 @@ a {
     justify-content: space-around;
     align-items: center;
     margin-top: 3%;
+    max-height: 100vh;
 }
 
 .container-left {
